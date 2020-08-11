@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Huang-Libo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Huang-Libo&repo=LBCycleScrollView&show_owner=true)](https://github.com/Huang-Libo/LBCycleScrollView)
 
 
 <!--
